@@ -3,5 +3,7 @@ package app;
 public class App {
     public static void main(String[] args) throws Exception {
         System.out.println("Hello Java");
+        System.out.println("GO. Goa. Gone.");
+        System.out.println("this is a test to check if we can replicate a senario from the ppt");
     }
 }
